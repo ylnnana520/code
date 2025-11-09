@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\Project8.C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798F4F12-3939-4B33-83FF-54143BFA9EDC}|Project8.C.vcxproj|D:\\code\\Project8.C\\avv.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{798F4F12-3939-4B33-83FF-54143BFA9EDC}|Project8.C.vcxproj|solutionrelative:avv.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798F4F12-3939-4B33-83FF-54143BFA9EDC}|Project8.C.vcxproj|D:\\code\\Project8.C\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{798F4F12-3939-4B33-83FF-54143BFA9EDC}|Project8.C.vcxproj|solutionrelative:add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Project8.C\\abb.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abb.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "avv.c",
+              "DocumentMoniker": "D:\\code\\Project8.C\\avv.c",
+              "RelativeDocumentMoniker": "avv.c",
+              "ToolTip": "D:\\code\\Project8.C\\avv.c",
+              "RelativeToolTip": "avv.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-07T17:31:54.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "abb.c",
+              "DocumentMoniker": "D:\\code\\Project8.C\\abb.c",
+              "RelativeDocumentMoniker": "abb.c",
+              "ToolTip": "D:\\code\\Project8.C\\abb.c",
+              "RelativeToolTip": "abb.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-07T17:30:35.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.c",
+              "DocumentMoniker": "D:\\code\\Project8.C\\add.c",
+              "RelativeDocumentMoniker": "add.c",
+              "ToolTip": "D:\\code\\Project8.C\\add.c",
+              "RelativeToolTip": "add.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-07T17:27:42.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
