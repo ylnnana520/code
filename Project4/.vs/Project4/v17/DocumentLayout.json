@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u8BA1\u7B97\u673A\u7F16\u7A0B\\Project4\\",
+  "WorkspaceRootPath": "D:\\code\\Project4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3064A3A9-9036-4087-A712-CBFE224D0AAF}|Project4\\Project4.vcxproj|D:\\\u8BA1\u7B97\u673A\u7F16\u7A0B\\Project4\\Project4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3064A3A9-9036-4087-A712-CBFE224D0AAF}|Project4\\Project4.vcxproj|solutionrelative:Project4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Project4\\Project4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.cpp",
-              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\u7F16\u7A0B\\Project4\\Project4\\\u6E90.cpp",
+              "DocumentMoniker": "D:\\code\\Project4\\Project4\\\u6E90.cpp",
               "RelativeDocumentMoniker": "Project4\\\u6E90.cpp",
-              "ToolTip": "D:\\\u8BA1\u7B97\u673A\u7F16\u7A0B\\Project4\\Project4\\\u6E90.cpp*",
-              "RelativeToolTip": "Project4\\\u6E90.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "ToolTip": "D:\\code\\Project4\\Project4\\\u6E90.cpp",
+              "RelativeToolTip": "Project4\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-28T15:38:33.59Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

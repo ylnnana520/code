@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.cpp",
               "DocumentMoniker": "D:\\code\\Project10\\\u6E90.cpp",
               "RelativeDocumentMoniker": "\u6E90.cpp",
-              "ToolTip": "D:\\code\\Project10\\\u6E90.cpp*",
-              "RelativeToolTip": "\u6E90.cpp*",
+              "ToolTip": "D:\\code\\Project10\\\u6E90.cpp",
+              "RelativeToolTip": "\u6E90.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-07T17:55:12.458Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

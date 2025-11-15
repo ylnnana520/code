@@ -25,8 +25,8 @@
               "Title": "test.c",
               "DocumentMoniker": "D:\\code\\Project12\\test.c",
               "RelativeDocumentMoniker": "test.c",
-              "ToolTip": "D:\\code\\Project12\\test.c*",
-              "RelativeToolTip": "test.c*",
+              "ToolTip": "D:\\code\\Project12\\test.c",
+              "RelativeToolTip": "test.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-08T16:46:38.953Z",
@@ -41,8 +41,7 @@
               "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "ViewState": "AgIAAJgFAAAAAAAAAAAYwJ4FAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-10T15:55:30.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T15:55:30.535Z"
             }
           ]
         }
