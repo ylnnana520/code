@@ -1,10 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
 int main() {
-	int a=1, b=0, c=0, d=0;
-	int ret=scanf("%d %d %d %d", &a, &b, &c, &d);
-	printf("%d %d %d %d\n", a, b, c, d);
-	printf("ret=%d\n", ret);
-	
+	int num1 = 0;
+	int num2 = 0;
+	printf("请输入两个整数；");
+	scanf("%d %d", &num1, &num2);
+	int a = 0;
+	a = sum(num1, num2);
+	printf("%d\n", a);
 	return 0;
 }
